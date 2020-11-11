@@ -1,0 +1,66 @@
+nav {
+    background-color: whitesmoke;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100vw;
+    height: 50px;
+}
+
+nav ul li{
+    display: inline-block;
+    color: lightblue;
+    font-weight: bold;
+    margin-right: 20px;
+}
+
+nav ul li button{
+    background-color: lightblue;
+}
+
+nav ul{
+    text-align: right;
+}
+
+h1 {
+    display: center;
+}
+
+body {
+    background-color: lightblue;    
+}
+
+body p button {
+    background-color: lightcoral;
+}
+
+#signup {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: whitesmoke;
+}
+
+#images {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-top-left-radius: 50% 50%;
+    border-top-right-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%;
+    padding-bottom: 30px;
+}
+ .Register { 
+    width: 50%;
+    margin: auto;
+    border: 5px solid black;
+    background-color: whitesmoke;
+}
+
+/*.Register {
+   border: 5px solid black;
+   margin-left: 15%;
+   margin-right: 15%;*/
+} 
